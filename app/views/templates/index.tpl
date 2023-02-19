@@ -78,7 +78,7 @@
         <div class="header__area-menubar">
             <div class="header__area-menubar-left">
                 <div class="header__area-menubar-left-logo">
-                    <a href="/"><img class="dark-n" src="/assets/icon/logo-white.png" alt=""><img class="light-n" src="/assets/icon/dd.png" alt=""></a>
+                    <a href="/"><img class="dark-n" src="/assets/icon/dd.png" alt=""><img class="light-n" src="/assets/icon/logo-white.png" alt=""></a>
                 </div>
             </div>
             <div class="header__area-menubar-center">
