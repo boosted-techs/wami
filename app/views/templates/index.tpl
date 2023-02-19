@@ -9,6 +9,7 @@
     <meta name="keywords" content="Creative, Digital, multipage, landing, freelancer template">
     <meta name="author" content="ThemeOri">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#27348b">
     <!-- Title of Site -->
     <title>Wami Quality Consults</title>
     <!-- Favicons -->
@@ -77,7 +78,7 @@
         <div class="header__area-menubar">
             <div class="header__area-menubar-left">
                 <div class="header__area-menubar-left-logo">
-                    <a href="/"><img class="dark-n" src="/assets/icon/dd.png" alt=""><img class="light-n" src="/assets/icon/dd.png" alt=""></a>
+                    <a href="/"><img class="dark-n" src="/assets/icon/logo-white.png" alt=""><img class="light-n" src="/assets/icon/dd.png" alt=""></a>
                 </div>
             </div>
             <div class="header__area-menubar-center">
