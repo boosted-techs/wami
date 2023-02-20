@@ -5,9 +5,9 @@
     <!-- Start Meta -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Conbix - Business Consulting HTML5 Template">
-    <meta name="keywords" content="Creative, Digital, multipage, landing, freelancer template">
-    <meta name="author" content="ThemeOri">
+    <meta name="description" content="Our Team Of Highly Skilled And Experienced Consultants Have A Wealth Of Knowledge And Expertise In A Wide Range Of Industries, Including Manufacturing, Agriculture, And Food Production.">
+    <meta name="keywords" content="Wami Quality Consults">
+    <meta name="author" content="Boosted Technologies LTD">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#27348b">
     <!-- Title of Site -->
