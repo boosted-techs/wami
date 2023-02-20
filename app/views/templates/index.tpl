@@ -230,9 +230,12 @@
                     <div class="footer__one-widget-solution">
                         <ul>
                             <li><a href="/services"><i class="far fa-chevron-double-right"></i>Training</a></li>
-                            <li><a href="/services"><i class="far fa-chevron-double-right"></i>human resource</a></li>
-                            <li><a href="/services"><i class="far fa-chevron-double-right"></i>Digital Solution</a></li>
-                            <li><a href="/services"><i class="far fa-chevron-double-right"></i>strategy & research</a></li>
+                            <li><a href="/services"><i class="far fa-chevron-double-right"></i>Quality Improvement & Management.</a></li>
+                            <li><a href="/services"><i class="far fa-chevron-double-right"></i>Export Promotion.</a></li>
+                            <li><a href="/services"><i class="far fa-chevron-double-right"></i>Food Safety Consultancy.</a></li>
+                            <li><a href="/services"><i class="far fa-chevron-double-right"></i>Production Certification.</a></li>
+                            <li><a href="/services"><i class="far fa-chevron-double-right"></i>Export Promotion.</a></li>
+                            <li><a href="/services"><i class="far fa-chevron-double-right"></i>Product Development.</a></li>
                         </ul>
                     </div>
                 </div>
