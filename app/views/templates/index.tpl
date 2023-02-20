@@ -28,6 +28,7 @@
     <link rel="stylesheet" href="/assets/css/meanmenu.min.css">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/assets/sass/style.css">
+    <meta property="og:image" content="https://{$smarty.server.SERVER_NAME}/assets/icon/logo-white.png">
 </head>
 
 <body>
