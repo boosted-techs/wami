@@ -360,13 +360,13 @@
                                 <div class="testimonial__area-item-icon">
                                     <i class="fal fa-quote-right"></i>
                                 </div>
-                                <div class="testimonial__area-item-client-image">
-                                    <img src="/assets/img/avatar/avatar-1.jpg" alt="">
-                                </div>
-                                <div class="testimonial__area-item-client-title">
-                                    <h5>Flores, Juanita</h5>
-                                    <span class="text-eight">Ceo Founder</span>
-                                </div>
+{*                                <div class="testimonial__area-item-client-image">*}
+{*                                    <img src="/assets/img/avatar/avatar-1.jpg" alt="">*}
+{*                                </div>*}
+{*                                <div class="testimonial__area-item-client-title">*}
+{*                                    <h5>Flores, Juanita</h5>*}
+{*                                    <span class="text-eight">Ceo Founder</span>*}
+{*                                </div>*}
                             </div>
                             <p>
                                 Wami Quality Consults helped us enhance our product quality standards and meet regulatory requirements. Their team was knowledgeable, professional, and responsive. With their help, our products are now safer and more reliable. We highly recommend them!
@@ -384,13 +384,13 @@
                                 <div class="testimonial__area-item-icon">
                                     <i class="fal fa-quote-right"></i>
                                 </div>
-                                <div class="testimonial__area-item-client-image">
-                                    <img src="/assets/img/avatar/avatar-2.jpg" alt="">
-                                </div>
-                                <div class="testimonial__area-item-client-title">
-                                    <h5>Cooper, Kristin</h5>
-                                    <span class="text-eight">Co Founder</span>
-                                </div>
+{*                                <div class="testimonial__area-item-client-image">*}
+{*                                    <img src="/assets/img/avatar/avatar-2.jpg" alt="">*}
+{*                                </div>*}
+{*                                <div class="testimonial__area-item-client-title">*}
+{*                                    <h5>Cooper, Kristin</h5>*}
+{*                                    <span class="text-eight">Co Founder</span>*}
+{*                                </div>*}
                             </div>
                             <p>
                                 Wami Quality Consults helped us identify the root causes of our quality issues and implement new processes and systems. Their guidance has had a major impact on our production efficiency and overall quality. Working with them was a game-changer for our business.
@@ -408,13 +408,13 @@
                                 <div class="testimonial__area-item-icon">
                                     <i class="fal fa-quote-right"></i>
                                 </div>
-                                <div class="testimonial__area-item-client-image">
-                                    <img src="/assets/img/avatar/avatar-3.jpg" alt="">
-                                </div>
-                                <div class="testimonial__area-item-client-title">
-                                    <h5>Johnsie Jock</h5>
-                                    <span class="text-eight">sr. Designer</span>
-                                </div>
+{*                                <div class="testimonial__area-item-client-image">*}
+{*                                    <img src="/assets/img/avatar/avatar-3.jpg" alt="">*}
+{*                                </div>*}
+{*                                <div class="testimonial__area-item-client-title">*}
+{*                                    <h5>Johnsie Jock</h5>*}
+{*                                    <span class="text-eight">sr. Designer</span>*}
+{*                                </div>*}
                             </div>
                             <p>
                                 Wami Quality Consults provided invaluable guidance and support to help us improve our product quality standards and meet regulatory requirements. Their team was practical, knowledgeable, and professional. We highly recommend them to anyone in the food processing industry.
