@@ -28,12 +28,20 @@ class Home extends Controller
         $this->smarty->display("career.tpl");
     }
 
-    function quote() {
+    function quotation() {
         $this->smarty->display("quotation.tpl");
     }
 
     function portfolio() {
         $this->smarty->display("portfolio.tpl");
+    }
+
+    function faq() {
+        $this->smarty->display("faq.tpl");
+    }
+
+    function testimonial() {
+        $this->smarty->display("testimoial.tpl");
     }
 
 }

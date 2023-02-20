@@ -60,10 +60,10 @@
                     <a href="mailto:conbix@gmail.com"><i class="fas fa-envelope"></i>info@wamiconsults.com</a>
                     <div class="top__bar-right-social">
                         <ul>
-                            <li><a href="/#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="/#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="/#"><i class="fab fa-behance"></i></a></li>
-                            <li><a href="/#"><i class="fab fa-dribbble"></i></a></li>
+                            <li><a href=https://www.facebook.com/WamiQualityConsults"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="https://wa.me/256741965010?text=Hello,%20I'm%20interested%20in%20learning%20more%20about%20your%20company."><i class="fab fa-whatsapp-square"></i></a></li>
+                            <li><a href="https://twitter.com/WamiConsult"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/company/wami-quality-consults/"><i class="fab fa-linkedin-in"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -78,7 +78,7 @@
         <div class="header__area-menubar">
             <div class="header__area-menubar-left">
                 <div class="header__area-menubar-left-logo">
-                    <a href="/"><img class="dark-n" src="/assets/icon/dd.png" alt=""><img class="light-n" src="/assets/icon/logo-white.png" alt=""></a>
+                    <a href="/"><img class="dark-n" src="/assets/icon/dd.png" alt="Wami consults dark logo"><img class="light-n" src="/assets/icon/white-small.png" alt="Wami consults white logo"></a>
                 </div>
             </div>
             <div class="header__area-menubar-center">
@@ -89,7 +89,15 @@
                         <li><a href="/about-us">About us</a></li>
                         <li><a href="/contact-us">Contact us</a></li>
                         <li><a href="/career">Career</a></li>
-                        <li><a href="/porfolio">About us</a></li>
+
+                        <li class="menu-item-has-children"><a href="#">More</a>
+                            <ul class="sub-menu">
+                                <li><a href="/faq">FAQ</a></li>
+                                <li><a href="/testimonial">Testimonial</a></li>
+                            </ul>
+                        </li>
+
+
                     </ul>
                 </div>
             </div>
@@ -139,7 +147,8 @@
                                 </div>
                                 <div class="header__area-menubar-right-box-sidebar-popup-contact-item-content">
                                     <span>Quick Email</span>
-                                    <h6><a href="mailto:info.help@gmail.com">info@wamiconsults.com</a></h6>
+                                    <h6><a href="mailto:info@wamiconsults.com">info@wamiconsults.com</a></h6>
+                                    <h6><a href="mailto:wamiconsults@gmail.com">wamiconsults@gmail.com</a></h6>
                                 </div>
                             </div>
                             <div class="header__area-menubar-right-box-sidebar-popup-contact-item">
@@ -148,16 +157,18 @@
                                 </div>
                                 <div class="header__area-menubar-right-box-sidebar-popup-contact-item-content">
                                     <span>Office Address</span>
-                                    <h6><a href="/#">Gayaza Jr Rd, Gayaza</a></h6>
+                                    <h6><a href="/contact-us">Gayaza Multiple Centre, Office No. U-156 Gayaza Town, Wakiso District</a></h6>
+                                    <span>P.O BOX</span>
+                                    <h6><a href="/contact-us">P.O Box 111484</a></h6>
                                 </div>
                             </div>
                         </div>
                         <div class="header__area-menubar-right-box-sidebar-popup-social">
                             <ul>
-                                <li><a href="/#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="/#"><i class="fab fa-behance"></i></a></li>
-                                <li><a href="/#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="/#"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href=https://www.facebook.com/WamiQualityConsults"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="https://wa.me/256741965010?text=Hello,%20I'm%20interested%20in%20learning%20more%20about%20your%20company."><i class="fab fa-whatsapp-square"></i></a></li>
+                                <li><a href="https://twitter.com/WamiConsult"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/wami-quality-consults/"><i class="fab fa-linkedin-in"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -204,10 +215,10 @@
                         <p>For expert guidance and support</p>
                         <div class="footer__one-widget-about-social">
                             <ul>
-                                <li><a href="/#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="/#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="/#"><i class="fab fa-behance"></i></a></li>
-                                <li><a href="/#"><i class="fab fa-dribbble"></i></a></li>
+                                <li><a href=https://www.facebook.com/WamiQualityConsults"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="https://wa.me/256741965010?text=Hello,%20I'm%20interested%20in%20learning%20more%20about%20your%20company."><i class="fab fa-whatsapp-square"></i></a></li>
+                                <li><a href="https://twitter.com/WamiConsult"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/wami-quality-consults/"><i class="fab fa-linkedin-in"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -218,7 +229,7 @@
                     <h4>Our Services</h4>
                     <div class="footer__one-widget-solution">
                         <ul>
-                            <li><a href="/services"><i class="far fa-chevron-double-right"></i>Business Consulting</a></li>
+                            <li><a href="/services"><i class="far fa-chevron-double-right"></i>Training</a></li>
                             <li><a href="/services"><i class="far fa-chevron-double-right"></i>human resource</a></li>
                             <li><a href="/services"><i class="far fa-chevron-double-right"></i>Digital Solution</a></li>
                             <li><a href="/services"><i class="far fa-chevron-double-right"></i>strategy & research</a></li>
@@ -235,7 +246,9 @@
                                 <i class="far fa-map-marker-alt"></i>
                             </div>
                             <div class="footer__one-widget-location-item-info">
-                                <a href="/#">Gayaza Jr Rd, Gayaza</a>
+                                <a href="/contact-us">Gayaza Multiple Centre, Office No. U-156 Gayaza Town, Wakiso District
+                                </a>
+                                <h6><a href="/contact-us">P.O Box 111484</a></h6>
                             </div>
                         </div>
 {*                        <h6>Branch Office</h6>*}

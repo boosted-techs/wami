@@ -219,10 +219,10 @@
                 <div class="experience__area-image">
                     <img class="experience__area-image-shape left-right-animate" src="/assets/img/shape/dots.png" alt="">
                     <div class="experience__area-image-item">
-                        <img src="/assets/img/pages/experience-1-1.jpg" alt="">
+                        <img src="/assets/img/pages/experience-1-1.jpg" alt="Wami Fazil">
                     </div>
                     <div class="experience__area-image-item mt-65">
-                        <img src="/assets/img/pages/experience-2.jpg" alt="">
+                        <img src="/assets/img/pages/experience-2-2.jpg" alt="Wami consults">
                     </div>
                 </div>
             </div>

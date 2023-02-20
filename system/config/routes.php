@@ -19,3 +19,5 @@ $routes['portfolio']                        =               "Home/portfolio";
 $routes['porfolio']                         =               "Home/portfolio";
 $routes['quote']                            =               "Home/quotation";
 $routes['quotation']                        =               "Home/quotation";
+$routes['faq']                              =               "Home/faq";
+$routes['testimonial']                       =               "Home/testimonial";
