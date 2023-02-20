@@ -119,9 +119,9 @@
                     <div class="header__area-menubar-right-sidebar">
                         <div class="header__area-menubar-right-sidebar-popup-icon"><img src="/assets/img/icon/menu.png" alt=""></div>
                     </div>
-                    <div class="header__area-menubar-right-box-btn">
-                        <a class="btn-one" href="/quote">Request quote<i class="far fa-chevron-double-right"></i></a>
-                    </div>
+{*                    <div class="header__area-menubar-right-box-btn">*}
+{*                        <a class="btn-one" href="/quote">Request quote<i class="far fa-chevron-double-right"></i></a>*}
+{*                    </div>*}
                     <!-- sidebar Menu Start -->
                     <div class="header__area-menubar-right-sidebar-popup">
                         <div class="sidebar-close-btn"><i class="fal fa-times"></i></div>
