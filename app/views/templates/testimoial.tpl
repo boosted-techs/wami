@@ -10,7 +10,7 @@
                             <li><a href="/">Home</a><span>|</span></li>
                             <li>Testimonial</li>
                         </ul>
-                        <h1>What they say.</h1>
+                        <h1 style="text-transform: none">What they say.</h1>
                     </div>
                 </div>
             </div>
@@ -20,7 +20,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h5>At Wami Quality Consults, we are proud of the work we do and the positive impact it has on our clients. We are thrilled to hear that our clients have found our services to be helpful, professional, and innovative. Here are a few testimonials from our satisfied clients:
+                    <h5 style="text-transform: none">At Wami Quality Consults, we are proud of the work we do and the positive impact it has on our clients. We are thrilled to hear that our clients have found our services to be helpful, professional, and innovative. Here are a few testimonials from our satisfied clients:
                     </h5>
                 </div>
                 <div class="col-xl-12 col-md-6 mb-30">

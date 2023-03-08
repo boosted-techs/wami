@@ -13,9 +13,9 @@
                             <h1 data-animation="fadeInUp" data-delay=".6s">For premier support</h1>
                             <p data-animation="fadeInUp" data-delay=".8s">to Improve, develop and expand</p>
                             <div class="banner__one-content-button" data-animation="fadeInUp" data-delay="1s">
-                                <div class="banner__one-content-button-item">
-                                    <a class="btn-one" href="/portfolio">Recent Work<i class="far fa-chevron-double-right"></i></a>
-                                </div>
+{*                                <div class="banner__one-content-button-item">*}
+{*                                    <a class="btn-one" href="/portfolio">Recent Work<i class="far fa-chevron-double-right"></i></a>*}
+{*                                </div>*}
                                 <div class="banner__one-content-button-item">
                                     <a class="btn-three" href="/services">Services<i class="far fa-chevron-double-right"></i></a>
                                 </div>

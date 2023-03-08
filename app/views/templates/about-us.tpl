@@ -161,39 +161,31 @@
     <div class="company__two section-padding pt-0">
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
-                    <div class="company__two-left-title">
-                        <span class="subtitle-one">Values</span>
-                        <h2>Professionalism</h2>
-                        <p>We are dedicated to providing expert guidance and support to our clients and maintaining the highest level of professionalism in all our interactions.</p>
+                <div class="col-md-12">
+                    <span class="subtitle-one">our core values</span>
+                    <h2>Core Values.</h2>
+                    <div>
+                        <ul class="list-unstyled">
+                            <li>
+                                <span href="#" data-bs-toggle="collapse" data-bs-target="#demo"><i class="far fa-chevron-double-right"></i>Professionalism</span>
+                                <div id="demo" class="collapse">We Are Dedicated To Providing Expert Guidance And Support To Our Clients And Maintaining The Highest Level Of Professionalism In All Our Interactions.</div>
+                            </li>
+                            <li>
+                                <span href="#" data-bs-toggle="collapse" data-bs-target="#Integrity"><i class="far fa-chevron-double-right"></i>Integrity</span>
+                                <div id="Integrity" class="collapse">We Are Committed To Maintaining The Highest Ethical Standards In Everything We Do And Being Transparent In Our Actions And Communication.</div>
+                            </li>
+                            <li>
+                                <span href="#" data-bs-toggle="collapse" data-bs-target="#Innovation"><i class="far fa-chevron-double-right"></i>Innovation</span>
+                                <div id="Innovation" class="collapse">We Strive To Continuously Improve Our Services And Stay At The Forefront Of Industry Developments By Embracing New Ideas And Technologies.</div>
+                            </li>
+                            <li>
+                                <span href="#" data-bs-toggle="collapse" data-bs-target="#team"><i class="far fa-chevron-double-right"></i>Team Work</span>
+                                <div id="team" class="collapse">We Believe That Working Together As A Team Is Essential To Achieving Success, And We Foster A Collaborative Culture That Values Diverse Perspectives And Ideas.</div>
+                            </li>
+
+                        </ul>
                     </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="company__two-left-title">
-                        <span class="subtitle-one">Values</span>
-                        <h2>Integrity</h2>
-                        <p>
-                            We are committed to maintaining the highest ethical standards in everything we do and being transparent in our actions and communication.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="company__two-left-title">
-                        <span class="subtitle-one">Values</span>
-                        <h2>Team Work</h2>
-                        <p>
-                            We believe that working together as a team is essential to achieving success, and we foster a collaborative culture that values diverse perspectives and ideas.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="company__two-left-title">
-                        <span class="subtitle-one">Values</span>
-                        <h2>Innovation</h2>
-                        <p>
-                            We strive to continuously improve our services and stay at the forefront of industry developments by embracing new ideas and technologies.
-                        </p>
-                    </div>
+
                 </div>
             </div>
         </div>
