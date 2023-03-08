@@ -65,11 +65,11 @@
                         </div>
                         <div class="company__two-left-skill">
                             <div class="company__two-left-skill-item">
-                                <h2><span class="counter">1.3</span>k</h2>
+                                <h2><span class="counter">200</span>+</h2>
                                 <h6>Project Completed Last Years</h6>
                             </div>
                             <div class="company__two-left-skill-item">
-                                <h2><span class="counter">1</span>k</h2>
+                                <h2><span class="counter">100</span>+</h2>
                                 <h6>happy customer worldwide</h6>
                             </div>
                         </div>
@@ -78,7 +78,7 @@
                 </div>
                 <div class="col-xl-6 col-lg-5">
                     <div class="company__two-right dark__image t-right">
-                        <img class="img__full" src="/assets/img/about/about-9-1.jpg" alt="">
+{*                        <img class="img__full" src="/assets/img/about/about-9-1.jpg" alt="">*}
                     </div>
                 </div>
             </div>

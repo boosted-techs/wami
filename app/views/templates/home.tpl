@@ -56,8 +56,8 @@
             <div class="col-xl-6 col-lg-6 lg-mb-30">
                 <div class="about__one-left">
                     <div class="about__one-left-image">
-                        <img class="one" src="/assets/img/about/about-1.jpg" alt="">
-                        <img class="two" src="/assets/img/about/about-2-1.jpg" alt="">
+{*                        <img class="one" src="/assets/img/about/about-1.jpg" alt="">*}
+{*                        <img class="two" src="/assets/img/about/about-2-1.jpg" alt="">*}
                     </div>
                     <div class="about__one-left-experience">
                         <h1><span class="counter">5</span>+</h1>
@@ -88,21 +88,7 @@
 {*                            </div>*}
 {*                        </div>*}
                     </div>
-                    <div class="about__one-right-bottom">
-                        <div class="about__one-right-bottom-list">
-                            <span><i class="far fa-check"></i>Training.</span>
-                            <span><i class="far fa-check"></i>Quality improvement & Management.</span>
-                            <span><i class="far fa-check"></i>Export Promotion.</span>
-                            <span><i class="far fa-check"></i>Food safety consultancy.</span>
-                            <span><i class="far fa-check"></i>Production certification.</span>
-                            <span><i class="far fa-check"></i>Export Promotion.</span>
-                            <span><i class="far fa-check"></i>Product development.</span>
-                        </div>
-                        <div class="about__one-right-bottom-experience">
-                            <h3><span class="counter">50</span>+</h3>
-                            <h6>Expert Team members</h6>
-                        </div>
-                    </div>
+
                 </div>
             </div>
         </div>

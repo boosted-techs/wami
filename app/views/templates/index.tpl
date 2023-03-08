@@ -230,13 +230,13 @@
                     <h4>Our Services</h4>
                     <div class="footer__one-widget-solution">
                         <ul>
-                            <li><a href="/services"><i class="far fa-chevron-double-right"></i>Training</a></li>
-                            <li><a href="/services"><i class="far fa-chevron-double-right"></i>Quality Improvement & Management.</a></li>
-                            <li><a href="/services"><i class="far fa-chevron-double-right"></i>Export Promotion.</a></li>
-                            <li><a href="/services"><i class="far fa-chevron-double-right"></i>Food Safety Consultancy.</a></li>
-                            <li><a href="/services"><i class="far fa-chevron-double-right"></i>Production Certification.</a></li>
-                            <li><a href="/services"><i class="far fa-chevron-double-right"></i>Export Promotion.</a></li>
-                            <li><a href="/services"><i class="far fa-chevron-double-right"></i>Product Development.</a></li>
+                            <li><a href="/training"><i class="far fa-chevron-double-right"></i>Training</a></li>
+                            <li><a href="/services/quality-improvement"><i class="far fa-chevron-double-right"></i>Quality Improvement & Management.</a></li>
+                            <li><a href="/services/quality-export"><i class="far fa-chevron-double-right"></i>Export Promotion.</a></li>
+                            <li><a href="/services/food-safety"><i class="far fa-chevron-double-right"></i>Food Safety Consultancy.</a></li>
+                            <li><a href="/services/production-certification"><i class="far fa-chevron-double-right"></i>Production Certification.</a></li>
+                            <li><a href="/services/export-promotion"><i class="far fa-chevron-double-right"></i>Export Promotion.</a></li>
+                            <li><a href="/services/product-development"><i class="far fa-chevron-double-right"></i>Product Development.</a></li>
                         </ul>
                     </div>
                 </div>

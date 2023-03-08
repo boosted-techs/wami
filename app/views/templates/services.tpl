@@ -67,6 +67,7 @@
                             </div>
                             <h4><a href="#">Quality improvement and management</a></h4>
                             <p>We provide training and support for businesses looking to improve their overall quality management systems and processes</p>
+
                         </div>
                     </div>
                 </div>
