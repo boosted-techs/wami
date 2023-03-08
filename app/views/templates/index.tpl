@@ -79,7 +79,7 @@
         <div class="header__area-menubar">
             <div class="header__area-menubar-left">
                 <div class="header__area-menubar-left-logo">
-                    <a href="/"><img class="dark-n" src="/assets/icon/dd.png" alt="Wami consults dark logo"><img class="light-n" src="/assets/icon/white-small.png" alt="Wami consults white logo"></a>
+                    <a href="/"><img class="dark-n" src="/assets/icon/dd.png?w=1" alt="Wami consults dark logo"><img class="light-n" src="/assets/icon/white-small.png?w=1" alt="Wami consults white logo"></a>
                 </div>
             </div>
             <div class="header__area-menubar-center">
@@ -212,7 +212,7 @@
             <div class="col-xl-3 col-md-6 col-sm-7 xl-mb-30">
                 <div class="footer__one-widget">
                     <div class="footer__one-widget-about">
-                        <a href="/#"><img src="/assets/icon/logo-white.png" alt=""></a>
+                        <a href="/#"><img src="/assets/icon/logo-white.png?w=1" alt=""></a>
                         <p>For expert guidance and support</p>
                         <div class="footer__one-widget-about-social">
                             <ul>
